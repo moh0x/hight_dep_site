@@ -1,0 +1,15 @@
+.navbar-nav li a,.navbar-brand{
+    color: white !important;
+}
+.navbar-nav li a{
+    cursor: pointer;
+}
+.navbar{
+    background-color: #293035 !important;
+    box-shadow: 0 1px 10px rgb(27, 27, 27);
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    background-image: url('../../images/logo.PNG');
+}
